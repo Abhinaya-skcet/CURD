@@ -1,0 +1,47 @@
+/* CancelForm.css */
+.cancel-form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .cancel-form h2 {
+    text-align: center;
+  }
+  
+  .cancel-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cancel-form label {
+    margin-bottom: 8px;
+  }
+  
+  .cancel-form input,
+  .cancel-form textarea {
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .cancel-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cancel-form button:hover {
+    background-color: #0056b3;
+  }
+  /* CancelForm.css */
+
+/* ... existing styles ... */
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  
+  
